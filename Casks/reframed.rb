@@ -1,6 +1,6 @@
 cask "reframed" do
-  version "0.9.1"
-  sha256 "311ff438c700b9f652f0d71b17f677bfe391fdee682e237f6d3266d93fbee7aa"
+  version "0.9.2"
+  sha256 "366cb5b03fd3f5c7bbd6ad734bdfa8936ca7558d5b7969725d8d28bf60ef4440"
 
   url "https://github.com/jkuri/Reframed/releases/download/v#{version}/Reframed-#{version}.dmg"
   name "Reframed"
